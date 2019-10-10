@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364751997068",
+    "firebase_url": "https://upload-a2eeb.firebaseio.com",
+    "project_id": "upload-a2eeb",
+    "storage_bucket": "upload-a2eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364751997068:android:357e029f2f7763ffeed3a9",
+        "android_client_info": {
+          "package_name": "id.makmurriansyah.dev.uploadretrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364751997068-4756rm1jgqbqv71jk0mcjskhk0uos977.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMgME3tMGEBJ_ipO36X0n1HxJc03RAgRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364751997068-4756rm1jgqbqv71jk0mcjskhk0uos977.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
